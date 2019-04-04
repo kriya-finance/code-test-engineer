@@ -4,14 +4,17 @@ At MarketInvoice, we'd like to offer our customer loans. We would like to inform
 
 For accounting purposes we need to know how much of each repayment is paying off interest and how much is paying off the principal.
 
-##  Loan Repayment Calculator
 
-Implement the following user stories:
+
+##  The scope of the exercise is as follows:
+
+We would like you to write a loans calculator API with two endpoints returning json fulfilling the following user stories:
 
 1. As a prospective loan customer, I want to know the weekly instalment, the total cost and the amount of interest paid for a loan of a given amount and APR.
+
 2. As a loans administrator, I want to know what the breakdown of repayments are in terms of interest paid and principal repaid for a given loan amount and APR.
 
-The system should be Web API with two endpoints returning json.
+
 
 e.g.
 
@@ -94,6 +97,8 @@ Where
  - r is the installment period interest rate (the Annual Percentage Rate divided by the number of installments)
  
 https://www.wikihow.com/Calculate-an-Installment-Loan-Payment
+
+We advice you to take no more than 60 minutes to complete this task.
 
 ### What we pay attention to when we evaluate your submission
 * Code quality and consistency
