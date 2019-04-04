@@ -1,11 +1,10 @@
 # MarketInvoice Coding Exercise
 
-## Loan Repayment Calculator
+At MarketInvoice, we'd like to offer our customer loans. We would like to inform them how much a weekly installment will be, the total amount of interest paid and the overall cost of the loan.
 
-For loan customers we want to inform them how much a weekly installment will be, the total amount of interest paid and the overall cost of the loan.
 For accounting purposes we need to know how much of each repayment is paying off interest and how much is paying off the principal.
 
-## Task
+##  Loan Repayment Calculator
 
 Implement the following user stories:
 
